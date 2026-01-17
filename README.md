@@ -15,6 +15,8 @@ O dataset utilizado neste notebook representa dados de uma empresa de consultori
 
 # Gráficos interativos
 ![gif ](imgs_visualization/meu_grafico.gif)
+-
+![gif ](imgs_visualization/meu_grafico2.gif)
 
 # Imigração Brasil → Canadá
 ![Imigração Brasil → Canadá](imgs_visualization/imigração_brasil_canada.png)
