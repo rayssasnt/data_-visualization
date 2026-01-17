@@ -12,11 +12,20 @@ O dataset utilizado neste notebook representa dados de uma empresa de consultori
 
 # Demonstração dos Gráficos 
 
+# Gráficos interativos
+![gif ](imgs_visualization/meu_grafico.gif)
+
+# Imigração Brasil → Canadá
 ![Imigração Brasil → Canadá](imgs_visualization/imigração_brasil_canada.png)
 
-## Resultados das Vendas de 4 Lojas em 2022
+
+## Gráfico extra Resultados das Vendas de 4 Lojas em 2022
 ![Vendas em 4 lojas diferentes em 2022 ](imgs_visualization/vendas_2022.png)
 
-# Gráficos interativos
+
+# Certificado do Curso
+
+
+
 
 
