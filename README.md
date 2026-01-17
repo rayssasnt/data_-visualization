@@ -11,3 +11,5 @@ O dataset utilizado neste notebook representa dados de uma empresa de consultori
 - Seaborn
 
 # Demonstração dos Gráficos 
+
+![Imigração Brasil → Canadá](imgs_visualization/imigração_brasil_canada.png)
