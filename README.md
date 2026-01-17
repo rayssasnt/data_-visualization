@@ -9,6 +9,7 @@ O dataset utilizado neste notebook representa dados de uma empresa de consultori
 - Pandas 
 - Matplotlib 
 - Seaborn
+- Plotly
 
 # Demonstração dos Gráficos 
 
@@ -21,11 +22,3 @@ O dataset utilizado neste notebook representa dados de uma empresa de consultori
 
 ## Gráfico extra Resultados das Vendas de 4 Lojas em 2022
 ![Vendas em 4 lojas diferentes em 2022 ](imgs_visualization/vendas_2022.png)
-
-
-# Certificado do Curso
-
-
-
-
-
